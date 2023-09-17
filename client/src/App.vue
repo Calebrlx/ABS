@@ -42,9 +42,6 @@
       <div><i class="icon-address"></i> 16331 Heritage Place, Suite 101 Eagle River AK 99577</div>
       <div><i class="icon-phone"></i> (907) 350-8893</div>
       <div><i class="icon-email"></i> kellybcba@gmail.com</div>
-      <div class="connect-online">
-        <i class="icon-facebook"></i> <a href="https://www.facebook.com" target="_blank">Facebook</a>
-      </div>
     </div>
     <div class="copyright">
       <p>&copy; 2023 ~/Caleb </p>
